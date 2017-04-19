@@ -1,0 +1,243 @@
+"10: Agricultural production, crops",3224,4141,0,0,838,8203
+"11: Agricultural production, livestock",1653,907,21,0,52,2633
+12: Veterinary services,2693,212,0,5,62,2972
+20: Landscape and horticultural services,10716,20861,52,42,3220,34891
+"30: Agricultural services, n.e.c.",1305,279,0,0,55,1639
+31: Forestry,995,104,0,0,16,1115
+"32: Fishing, hunting, and trappingÂ ",360,211,0,0,0,571
+40: Metal mining,349,196,10,0,39,594
+41: Coal mining,18,31,0,0,0,49
+42: Oil and gas extraction,3403,723,13,31,172,4342
+"50: Nonmetallic mining and quarrying, except fuelsÂ ",867,408,26,63,102,1466
+60: All constructionÂ ,138495,79806,736,693,23682,243412
+100: Meat products,1063,2592,13,26,417,4111
+101: Dairy products,2736,1645,0,49,395,4825
+"102: Canned, frozen, and preserved fruits and vegetables",863,1333,39,13,271,2519
+110: Grain mill products,883,504,24,39,42,1492
+111: Bakery products,3151,4344,45,129,995,8664
+112: Sugar and confectionery products,500,932,21,0,149,1602
+120: Beverage industries,3716,1728,0,39,281,5764
+121: Misc. food preparations and kindred products,2158,4762,34,68,396,7418
+"122: Food industries, n.s.",2289,2173,42,24,398,4926
+130: Tobacco manufactures,100,21,0,0,0,121
+132: Knitting mills,603,925,0,33,401,1962
+"140: Dyeing and finishing textiles, except wool and knit goods",405,1121,18,0,235,1779
+141: Carpets and rugs,542,2190,13,26,78,2849
+"142: Yarn, thread, and fabric mills",2058,5371,0,31,1392,8852
+150: Miscellaneous textile mill products,415,725,0,0,277,1417
+"151: Apparel and accessories, except knit",23928,45171,197,459,18309,88064
+152: Miscellaneous fabricated textile products,1930,4980,33,104,1098,8145
+"160: Pulp, paper, and paperboard mills",1687,1699,16,37,214,3653
+161: Miscellaneous paper and pulp products,2162,2829,26,0,602,5619
+162: Paperboard containers and boxes,2480,2679,13,0,315,5487
+171: Newspaper publishing and printing,11892,3032,0,107,1033,16064
+"172: Printing, publishing, and allied industries, except newspapers",37804,13075,181,274,4083,55417
+"180: Plastics, synthetics, and resins",2032,2568,13,37,463,5113
+181: Drugs,2966,1381,5,87,266,4705
+182: Soaps and cosmetics,3214,2670,47,95,550,6576
+"190: Paints, varnishes, and related products",1397,1752,0,0,472,3621
+191: Agricultural chemicals,118,230,0,0,31,379
+192: Industrial and miscellaneous chemicals,4652,2374,20,99,554,7699
+200: Petroleum refining,7946,1789,77,28,220,10060
+201: Miscellaneous petroleum and coal products,565,138,0,26,89,818
+210: Tires and inner tubes,172,192,0,0,28,392
+"211: Other rubber products, and plastics footwear and belting",1324,2466,0,0,396,4186
+212: Miscellaneous plastics products,5057,9049,61,81,1785,16033
+220: Leather tanning and finishing,30,136,0,0,39,205
+"221: Footwear, except rubber and plastic",623,688,0,0,299,1610
+"222: Leather products, except footwear",389,1405,0,0,345,2139
+230: Logging,98,104,0,0,16,218
+"231: Sawmills, planing mills, and millwork",1761,2574,39,21,453,4848
+232: Wood buildings and mobile homes,86,487,0,15,0,588
+241: Miscellaneous wood products,1353,2346,15,0,497,4211
+242: Furniture and fixtures,8063,20416,68,344,3809,32700
+250: Glass and glass products,3581,3080,13,42,670,7386
+"251: Cement, concrete, gypsum, and plaster products",1999,914,53,0,77,3043
+252: Structural clay products,453,459,0,0,171,1083
+261: Pottery and related products,556,794,0,0,64,1414
+262: Misc. nonmetallic mineral and stone products,1713,2033,47,13,460,4266
+"270: Blast furnaces, steelworks, rolling and finishing mills",2109,2582,23,28,320,5062
+271: Iron and steel foundries,573,1697,0,0,45,2315
+272: Primary aluminum industries,2428,2643,78,78,342,5569
+280: Other primary metal industries,1907,2127,0,29,348,4411
+"281: Cutlery, handtools, and general hardware",2052,2408,0,47,550,5057
+282: Fabricated structural metal products,5546,5382,76,87,867,11958
+290: Screw machine products,1685,1847,0,26,280,3838
+291: Metal forgings and stampings,2053,2077,0,18,651,4799
+292: Ordnance,1099,605,31,0,84,1819
+300: Miscellaneous fabricated metal products,5479,8711,59,39,1170,15458
+"301: Metal industries, n.s.",748,1391,15,18,144,2316
+310: Engines and turbines,680,531,0,33,95,1339
+311: Farm machinery and equipment,344,392,0,0,21,757
+312: Construction and material handling machines,1278,926,29,0,186,2419
+320: Metalworking machinery,3516,3075,52,29,464,7136
+321: Office and accounting machines,692,132,0,0,37,861
+322: Computers and related equipment,12168,2649,18,135,896,15866
+"331: Machinery, except electrical, n.e.c.",18803,12776,224,253,2839,34895
+"332: Machinery, n.s.",882,772,28,26,264,1972
+340: Household appliances,767,1109,0,0,230,2106
+"341: Radio, TV, and communication equipment",13344,3216,141,29,1388,18118
+"342: Electrical machinery, equipment, and supplies, n.e.c.",22115,13032,227,356,2592,38322
+"350: Electrical machinery, equipment, and supplies, n.s.",11750,4785,79,327,1404,18345
+351: Motor vehicles and motor vehicle equipment,9504,10867,107,159,2357,22994
+352: Aircraft and parts,61138,13282,518,522,3551,79011
+360: Ship and boat building and repairing,3276,1056,60,0,168,4560
+361: Railroad locomotives and equipment,155,122,0,31,0,308
+"362: Guided missiles, space vehicles, and parts",69723,6978,485,331,1649,79166
+370: Cycles and miscellaneous transportation equipment,369,823,0,0,212,1404
+371: Scientific and controlling instruments,6575,1684,0,44,281,8584
+"372: Medical, dental, and optical instruments and supplies",6760,3015,74,50,674,10573
+380: Photographic equipment and supplies,2386,420,10,36,149,3001
+"381: Watches, clocks, and clockwork operated devices",89,186,0,0,111,386
+"390: Toys, amusement, and sporting goods",2577,2173,86,34,419,5289
+391: Miscellaneous manufacturing industries,10079,7032,106,90,2367,19674
+"392: Manufacturing industries, n.s.Â ",17220,25584,140,401,8125,51470
+400: Railroads,3774,1709,0,18,183,5684
+401: Bus service and urban transit,9619,3076,96,28,897,13716
+402: Taxicab service,1743,390,0,13,98,2244
+410: Trucking service,30022,15562,376,351,3826,50137
+411: Warehousing and storage,4592,5398,136,41,1000,11167
+412: U.S. Postal Service,25430,4797,117,0,843,31187
+420: Water transportation,5206,1498,73,89,343,7209
+421: Air transportation,26421,3407,448,306,2805,33387
+"422: Pipe lines, except natural gas",189,66,0,0,0,255
+432: Services incidental to transportation,23314,4497,307,187,2442,30747
+440: Radio and television broadcasting and cable,17462,2098,141,55,703,20459
+441: Telephone communications,29767,5477,227,496,1268,37235
+442: Telegraph and miscellaneous communications services,1138,136,26,0,111,1411
+450: Electric light and power,7232,2226,115,187,503,10263
+451: Gas and steam supply systems,4056,1514,0,81,189,5840
+"452: Electric and gas, and other combinations",10668,1468,8,100,348,12592
+470: Water supply and irrigation,5629,1442,18,0,136,7225
+471: Sanitary services,3332,2392,15,20,310,6069
+"472: Utilities, n.s.Â ",1497,424,0,0,16,1937
+500: Motor vehicles and equipment,8649,3862,100,36,816,13463
+501: Furniture and home furnishings,4352,3369,0,44,700,8465
+502: Lumber and construction materials,2813,1670,0,10,323,4816
+510: Professional and commercial equipment and supplies,6808,1477,0,45,330,8660
+"511: Metals and minerals, except petroleum",3343,1768,16,10,319,5456
+512: Electrical goods,12699,2845,106,13,702,16365
+"521: Hardware, plumbing and heating supplies",5951,2195,93,16,547,8802
+"530: Machinery, equipment, and supplies",21854,6243,130,234,1276,29737
+531: Scrap and waste materials,2649,2345,6,64,316,5380
+"532: Miscellaneous wholesale, durable goods",6733,1573,88,68,422,8884
+540: Paper and paper products,4981,2011,66,0,381,7439
+"541: Drugs, chemicals, and allied products",6074,1752,61,10,583,8480
+"542: Apparel, fabrics, and notions",8023,3622,0,16,1615,13276
+550: Groceries and related products,16271,12684,158,198,2443,31754
+551: Farm-product raw materials,217,29,0,0,105,351
+552: Petroleum products,1944,499,10,0,158,2611
+560: Alcoholic beverages,2678,656,0,31,223,3588
+561: Farm supplies,546,141,0,0,36,723
+"562: Miscellaneous wholesale, nondurable goods",5045,2354,92,55,819,8365
+"571: Wholesale trade, n.s.Â ",16535,5591,100,174,2198,24598
+580: Lumber and building material retailing,7233,3335,83,47,729,11427
+581: Hardware stores,4191,1163,15,0,181,5550
+582: Retail nurseries and garden stores,753,676,0,18,170,1617
+590: Mobile home dealers,291,19,0,0,57,367
+591: Department stores,34439,12569,364,388,3539,51299
+592: Variety stores,1457,798,26,0,309,2590
+600: Miscellaneous general merchandise stores,1965,569,18,0,303,2855
+601: Grocery stores,45603,19914,209,363,5292,71381
+602: Dairy products stores,813,549,0,49,153,1564
+610: Retail bakeries,4632,3474,0,16,1325,9447
+"611: Food stores, n.e.c.",3761,2931,0,39,543,7274
+612: Motor vehicle dealers,20555,8283,190,125,2794,31947
+620: Auto and home supply stores,6792,3950,89,95,1281,12207
+621: Gasoline service stations,8362,2876,107,64,1948,13357
+622: Miscellaneous vehicle dealers,2137,343,0,16,62,2558
+"623: Apparel and accessory stores, except shoe",21211,7628,164,147,2446,31596
+630: Shoe stores,3044,1872,0,0,367,5283
+631: Furniture and home furnishings stores,12577,5218,78,212,1926,20011
+632: Household appliance stores,2024,701,0,0,388,3113
+"633: Radio, TV, and computer stores",12762,2043,123,107,910,15945
+640: Music stores,5433,945,51,0,410,6839
+641: Eating and drinking places,89358,69142,640,725,20627,180492
+642: Drug stores,14077,2991,69,23,828,17988
+650: Liquor stores,5109,1128,0,0,398,6635
+"651: Sporting goods, bicycles, and hobby stores",8060,1319,35,70,363,9847
+652: Book and stationery stores,6539,1030,0,21,533,8123
+660: Jewelry stores,6220,1781,113,0,957,9071
+"661: Gift, novelty, and souvenir shops",4847,623,0,36,146,5652
+"662: Sewing, needlework, and piece goods stores",1640,317,19,0,120,2096
+663: Catalog and mail order houses,3539,1076,41,0,404,5060
+670: Vending machine operators,1054,198,21,0,243,1516
+671: Direct selling establishments,4857,1571,0,113,809,7350
+672: Fuel dealers,804,83,0,0,114,1001
+681: Retail florists,3969,898,37,57,382,5343
+682: Miscellaneous retail stores,16872,4876,67,26,1487,23328
+"691: Retail trade, n.s.Â ",17964,6398,24,155,2255,26796
+700: Banking,65741,13756,527,690,5120,85834
+"701: Savings institutions, including credit unions",11037,1789,31,72,652,13581
+"702: Credit agencies, n.e.c.",15255,2485,16,206,979,18941
+"710: Security, commodity brokerage, and investment companies",24309,2002,61,129,780,27281
+711: Insurance,66389,9182,384,409,3514,79878
+"712: Real estate, including real estate-insurance officesÂ ",82907,11957,463,444,5143,100914
+721: Advertising,14552,1621,49,116,892,17230
+722: Services to dwellings and other buildings,12605,12591,80,225,9936,35437
+731: Personnel supply services,14877,2980,52,146,1144,19199
+732: Computer and data processing services,22579,1995,109,65,852,25600
+740: Detective and protective services,15938,3188,39,151,1548,20864
+"741: Business services, n.e.c.",49973,10530,282,189,4650,65624
+"742: Automotive rental and leasing, without drivers",4380,1226,31,28,590,6255
+750: Automobile parking and carwashes,3658,5117,60,53,3409,12297
+751: Automotive repair and related services,19800,16494,201,196,6770,43461
+752: Electrical repair shops,2577,789,0,24,172,3562
+760: Miscellaneous repair servicesÂ ,7629,4999,31,74,1172,13905
+761: Private households,11368,14446,51,128,21715,47708
+762: Hotels and motels,18031,11084,232,212,6578,36137
+"770: Lodging places, except hotels and motels",1820,447,26,0,133,2426
+"771: Laundry, cleaning, and garment services",8362,7447,24,67,2473,18373
+772: Beauty shops,18621,4945,232,145,1850,25793
+780: Barber shops,1032,915,0,20,111,2078
+781: Funeral service and crematories,1431,170,0,41,72,1714
+782: Shoe repair shops,540,254,0,0,48,842
+790: Dressmaking shops,564,505,0,0,363,1432
+791: Miscellaneous personal servicesÂ ,11979,2185,91,67,1669,15991
+800: Theaters and motion pictures,78770,5660,403,455,2213,87501
+801: Video tape rental,2089,457,0,42,197,2785
+802: Bowling centers,1081,224,0,13,57,1375
+810: Miscellaneous entertainment and recreation servicesÂ ,26057,7133,83,136,1884,35293
+812: Offices and clinics of physicians,34771,6662,129,462,3355,45379
+820: Offices and clinics of dentists,14624,3696,122,318,1165,19925
+821: Offices and clinics of chiropractors,3111,298,34,67,167,3677
+822: Offices and clinics of optometrists,1809,285,47,0,114,2255
+"830: Offices and clinics of health practitioners, n.e.c.",4713,262,0,0,133,5108
+831: Hospitals,128247,26297,1000,789,11398,167731
+832: Nursing and personal care facilities,9990,3127,105,68,1612,14902
+"840: Health services, n.e.c.",30108,6000,284,251,2782,39425
+841: Legal services,59748,6971,194,460,2452,69825
+842: Elementary and secondary schools,148331,36953,853,1215,7844,195196
+850: Colleges and universities,62641,6729,334,297,2857,72858
+851: Vocational schools,1196,205,13,0,182,1596
+852: Libraries,5443,952,42,0,58,6495
+"860: Educational services, n.e.c.",7025,720,13,0,453,8211
+861: Job training and vocational rehabilitation services,1680,457,0,56,55,2248
+862: Child day care services,10441,2979,70,46,1227,14763
+863: Family child care homes,6038,3596,21,94,2782,12531
+"870: Residential care facilities, without nursing",5969,1687,15,76,666,8413
+"871: Social services, n.e.c.",22244,5105,257,302,1349,29257
+"872: Museums, art galleries, and zoos",2823,309,21,26,193,3372
+873: Labor unions,2460,748,0,31,104,3343
+880: Religious organizations,18217,2513,140,135,1076,22081
+"881: Membership organizations, n.e.c.",7645,1579,42,39,306,9611
+"882: Engineering, architectural, and surveying services",24572,2117,137,68,1001,27895
+"890: Accounting, auditing, and bookkeeping services",29805,2360,109,291,997,33562
+"891: Research, development, and testing services",15932,1603,21,73,756,18385
+892: Management and public relations services,23696,1944,81,91,826,26638
+893: Miscellaneous professional and related servicesÂ ,13485,1066,0,10,496,15057
+900: Executive and legislative offices,1576,226,0,0,31,1833
+"901: General government, n.e.c.",26514,6340,113,340,1304,34611
+"910: Justice, public order, and safety",37361,7529,209,396,1192,46687
+"921: Public finance, taxation, and monetary policy",5739,1088,88,37,227,7179
+922: Administration of human resources programs,5249,1292,123,28,260,6952
+930: Administration of environmental quality and housing programs,1183,367,10,19,0,1579
+931: Administration of economic programs,10427,1826,86,88,559,12986
+932: National security and international affairsÂ ,8270,1246,34,18,459,10027
+940: Army,997,365,49,0,156,1567
+941: Air Force,2701,166,31,0,115,3013
+942: Navy,11056,746,168,31,221,12222
+950: Marines,480,240,26,0,31,777
+951: Coast Guard,281,0,0,0,0,281
+"952: Armed Forces, branch not specified",449,227,0,0,20,696
+960: Military Reserves or National GuardÂ ,261,23,0,0,0,284

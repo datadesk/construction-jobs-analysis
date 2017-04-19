@@ -1,0 +1,229 @@
+ind1990_code,ind1990,white,black,american_indian,chinese,japanese,other_asian,other,total,year,asian
+0,0: N/A (not applicable)Â ,8080,1760,220,20,60,780,320,11020,1980,860
+10,"10: Agricultural production, crops",6940,480,100,160,480,260,420,8740,1980,900
+11,"11: Agricultural production, livestock",1300,20,0,20,20,40,0,1400,1980,80
+20,20: Landscape and horticultural services,12720,820,80,60,3320,320,360,17600,1980,3700
+30,"30: Agricultural services, n.e.c.",4000,160,0,20,20,100,60,4360,1980,140
+31,31: Forestry,840,60,20,0,0,0,40,940,1980,0
+32,"32: Fishing, hunting, and trappingÂ ",680,40,20,40,40,60,20,880,1980,140
+40,40: Metal mining,340,20,0,0,0,40,0,400,1980,40
+41,41: Coal mining,80,0,0,0,0,0,0,80,1980,0
+42,42: Oil and gas extraction,5900,440,80,140,80,120,100,6780,1980,340
+50,"50: Nonmetallic mining and quarrying, except fuelsÂ ",660,60,0,0,20,20,40,800,1980,40
+60,60: All constructionÂ ,133780,9100,1460,820,1340,2480,3500,151020,1980,4640
+100,100: Meat products,5080,460,20,80,60,120,160,5960,1980,260
+101,101: Dairy products,3820,380,20,0,60,200,120,4580,1980,260
+102,"102: Canned, frozen, and preserved fruits and vegetables",3060,240,0,60,40,180,100,3680,1980,280
+110,110: Grain mill products,1980,200,20,0,0,0,80,2260,1980,0
+111,111: Bakery products,5020,640,80,40,20,200,140,6060,1980,260
+112,112: Sugar and confectionery products,1360,140,0,40,20,20,0,1580,1980,80
+120,120: Beverage industries,4520,600,0,40,20,120,100,5400,1980,180
+121,121: Misc. food preparations and kindred products,7960,720,120,100,280,820,260,10140,1980,1200
+122,"122: Food industries, n.s.",2780,120,0,100,80,180,20,3280,1980,360
+130,130: Tobacco manufactures,20,20,0,20,0,0,20,80,1980,20
+132,132: Knitting mills,940,40,0,80,40,160,60,1320,1980,280
+140,"140: Dyeing and finishing textiles, except wool and knit goods",500,0,0,0,0,20,20,540,1980,20
+141,141: Carpets and rugs,2680,260,0,60,0,60,40,3100,1980,120
+142,"142: Yarn, thread, and fabric mills",3360,320,20,20,60,160,120,4040,1980,240
+150,150: Miscellaneous textile mill products,1060,160,0,0,0,60,40,1320,1980,60
+151,"151: Apparel and accessories, except knit",51400,2660,220,3160,1400,3980,2700,65300,1980,8540
+152,152: Miscellaneous fabricated textile products,6400,480,40,60,120,140,300,7500,1980,320
+160,"160: Pulp, paper, and paperboard mills",3800,860,20,40,40,120,180,5040,1980,200
+161,161: Miscellaneous paper and pulp products,4680,360,40,40,60,120,120,5380,1980,220
+162,162: Paperboard containers and boxes,5020,560,20,0,20,80,160,5840,1980,100
+171,171: Newspaper publishing and printing,13600,1480,160,140,200,560,300,16280,1980,900
+172,"172: Printing, publishing, and allied industries, except newspapers",39080,2400,300,460,720,1020,720,44400,1980,2200
+180,"180: Plastics, synthetics, and resins",7360,480,40,40,40,240,300,8460,1980,320
+181,181: Drugs,4080,420,20,40,60,360,60,5020,1980,460
+182,182: Soaps and cosmetics,6080,860,40,60,120,340,200,7660,1980,520
+190,"190: Paints, varnishes, and related products",2780,280,40,20,40,140,120,3380,1980,200
+191,191: Agricultural chemicals,700,0,0,0,0,40,40,780,1980,40
+192,192: Industrial and miscellaneous chemicals,8160,620,100,60,40,700,240,9820,1980,800
+200,200: Petroleum refining,7900,940,40,60,280,240,100,9520,1980,580
+201,201: Miscellaneous petroleum and coal products,1360,180,0,0,20,0,60,1620,1980,20
+210,210: Tires and inner tubes,800,180,0,0,20,0,20,1020,1980,20
+211,"211: Other rubber products, and plastics footwear and belting",2720,300,0,20,0,20,20,3080,1980,40
+212,212: Miscellaneous plastics products,15880,700,180,40,140,680,440,17880,1980,860
+220,220: Leather tanning and finishing,380,0,0,0,0,0,0,380,1980,0
+221,"221: Footwear, except rubber and plastic",3620,100,20,60,0,80,220,4080,1980,140
+222,"222: Leather products, except footwear",3080,100,20,0,20,20,160,3380,1980,40
+230,230: Logging,300,100,0,0,0,0,40,440,1980,0
+231,"231: Sawmills, planing mills, and millwork",4580,380,40,0,0,80,180,5220,1980,80
+232,232: Wood buildings and mobile homes,600,20,0,0,0,0,20,640,1980,0
+241,241: Miscellaneous wood products,3780,180,20,20,20,40,100,4140,1980,80
+242,242: Furniture and fixtures,30760,1820,100,60,280,440,1080,34440,1980,780
+250,250: Glass and glass products,6940,1140,60,20,180,180,280,8740,1980,380
+251,"251: Cement, concrete, gypsum, and plaster products",2940,180,0,40,0,40,80,3280,1980,80
+252,252: Structural clay products,1780,80,0,0,20,20,40,1940,1980,40
+261,261: Pottery and related products,2700,60,20,0,20,20,120,2920,1980,40
+262,262: Misc. nonmetallic mineral and stone products,2800,120,0,20,0,40,140,3120,1980,60
+270,"270: Blast furnaces, steelworks, rolling and finishing mills",7060,1200,80,0,80,380,320,9040,1980,460
+271,271: Iron and steel foundries,4400,360,20,0,40,80,180,5060,1980,120
+272,272: Primary aluminum industries,4320,540,0,40,0,120,180,5200,1980,160
+280,280: Other primary metal industries,6020,780,40,0,40,100,260,7200,1980,140
+281,"281: Cutlery, handtools, and general hardware",6640,700,0,40,80,240,140,7840,1980,360
+282,282: Fabricated structural metal products,15200,1000,140,60,120,380,440,17200,1980,560
+290,290: Screw machine products,4580,300,40,80,20,320,120,5420,1980,420
+291,291: Metal forgings and stampings,4480,360,60,20,40,140,200,5240,1980,200
+292,292: Ordnance,2040,200,40,0,0,40,40,2320,1980,40
+300,300: Miscellaneous fabricated metal products,18700,1400,260,40,120,500,1000,21760,1980,660
+301,"301: Metal industries, n.s.",2220,120,0,20,20,40,80,2500,1980,80
+310,310: Engines and turbines,2140,280,0,80,80,120,0,2700,1980,280
+311,311: Farm machinery and equipment,620,0,20,0,20,80,20,740,1980,100
+312,312: Construction and material handling machines,4760,340,100,40,60,300,140,5640,1980,400
+320,320: Metalworking machinery,8060,280,80,60,60,380,240,9080,1980,500
+321,321: Office and accounting machines,1740,260,20,60,20,120,60,2260,1980,200
+322,322: Computers and related equipment,15040,1400,120,360,420,1140,240,18600,1980,1920
+331,"331: Machinery, except electrical, n.e.c.",38820,1980,320,240,300,1120,900,43360,1980,1660
+332,"332: Machinery, n.s.",1900,120,20,0,20,60,40,2140,1980,80
+340,340: Household appliances,2620,260,0,20,0,100,40,3040,1980,120
+341,"341: Radio, TV, and communication equipment",25200,2780,400,420,780,1380,760,31320,1980,2580
+342,"342: Electrical machinery, equipment, and supplies, n.e.c.",34760,3580,320,440,720,1800,920,42220,1980,2960
+350,"350: Electrical machinery, equipment, and supplies, n.s.",14740,1120,180,320,400,980,340,17900,1980,1700
+351,351: Motor vehicles and motor vehicle equipment,17580,1940,120,60,320,500,700,21100,1980,880
+352,352: Aircraft and parts,74820,12420,920,620,1040,2040,1700,92640,1980,3700
+360,360: Ship and boat building and repairing,7920,2620,180,40,60,580,280,11500,1980,680
+361,361: Railroad locomotives and equipment,160,20,0,0,0,20,0,200,1980,20
+362,"362: Guided missiles, space vehicles, and parts",46640,4620,200,1180,1480,760,440,55120,1980,3420
+370,370: Cycles and miscellaneous transportation equipment,2560,120,40,20,20,80,80,2880,1980,120
+371,371: Scientific and controlling instruments,9140,860,80,80,180,480,220,10960,1980,740
+372,"372: Medical, dental, and optical instruments and supplies",9860,1000,40,100,240,420,160,11780,1980,760
+380,380: Photographic equipment and supplies,3500,400,0,120,140,260,20,4440,1980,520
+381,"381: Watches, clocks, and clockwork operated devices",400,60,0,20,20,0,0,500,1980,40
+390,"390: Toys, amusement, and sporting goods",7720,540,80,60,100,260,340,9020,1980,420
+391,391: Miscellaneous manufacturing industries,13260,960,100,80,420,580,460,15760,1980,1080
+392,"392: Manufacturing industries, n.s.Â ",21640,2320,140,240,180,980,900,26260,1980,1400
+400,400: Railroads,6060,1080,80,40,0,120,120,7420,1980,160
+401,401: Bus service and urban transit,8240,5280,40,40,80,220,160,14020,1980,340
+402,402: Taxicab service,2360,480,60,0,0,80,100,3020,1980,80
+410,410: Trucking service,33380,5080,240,140,1040,460,780,40880,1980,1640
+411,411: Warehousing and storage,7120,1000,60,20,200,180,200,8720,1980,400
+412,412: U.S. Postal Service,14060,9080,180,160,440,740,400,24880,1980,1340
+420,420: Water transportation,5320,960,40,40,120,200,160,6800,1980,360
+421,421: Air transportation,26480,3820,200,400,1080,1260,560,33600,1980,2740
+422,"422: Pipe lines, except natural gas",320,40,0,0,0,60,0,420,1980,60
+432,432: Services incidental to transportation,9960,820,40,280,720,640,160,12580,1980,1640
+440,440: Radio and television broadcasting and cable,9500,1040,20,20,80,100,20,10760,1980,200
+441,441: Telephone communications,36720,7080,380,380,700,1360,880,47120,1980,2440
+442,442: Telegraph and miscellaneous communications services,1980,320,20,20,80,100,40,2540,1980,200
+450,450: Electric light and power,7460,1140,40,140,200,260,80,9280,1980,600
+451,451: Gas and steam supply systems,4060,700,40,60,160,120,80,5180,1980,340
+452,"452: Electric and gas, and other combinations",3460,880,0,60,220,160,0,4780,1980,440
+470,470: Water supply and irrigation,4480,1200,40,40,100,140,100,6060,1980,280
+471,471: Sanitary services,3740,1500,20,20,60,80,60,5460,1980,160
+472,"472: Utilities, n.s.Â ",600,80,40,0,0,0,40,720,1980,0
+500,500: Motor vehicles and equipment,8980,880,40,20,400,320,100,10700,1980,740
+501,501: Furniture and home furnishings,4000,280,0,60,80,60,60,4540,1980,200
+502,502: Lumber and construction materials,3680,180,0,0,20,40,60,3980,1980,60
+511,"511: Metals and minerals, except petroleum",5020,280,20,120,160,160,80,5820,1980,440
+512,512: Electrical goods,11820,620,140,200,580,360,220,13800,1980,1140
+521,"521: Hardware, plumbing and heating supplies",7040,320,80,40,100,160,100,7760,1980,300
+530,"530: Machinery, equipment, and supplies",24020,1760,60,300,500,660,340,27580,1980,1460
+531,531: Scrap and waste materials,3500,640,40,20,20,60,120,4360,1980,100
+532,"532: Miscellaneous wholesale, durable goods",7900,440,40,180,360,540,240,9660,1980,1080
+540,540: Paper and paper products,5060,420,100,80,120,80,140,5900,1980,280
+541,"541: Drugs, chemicals, and allied products",4940,320,0,20,40,100,60,5480,1980,160
+542,"542: Apparel, fabrics, and notions",7500,620,60,200,120,440,240,9120,1980,760
+550,550: Groceries and related products,23020,1840,200,440,840,540,540,27220,1980,1820
+551,551: Farm-product raw materials,360,40,0,0,20,0,40,460,1980,20
+552,552: Petroleum products,3720,360,20,0,80,60,40,4260,1980,140
+560,560: Alcoholic beverages,3420,480,40,0,80,20,80,4080,1980,100
+561,561: Farm supplies,780,0,0,0,40,0,0,820,1980,40
+562,"562: Miscellaneous wholesale, nondurable goods",4960,240,80,80,480,220,200,6180,1980,780
+571,"571: Wholesale trade, n.s.Â ",9860,760,0,660,820,900,60,13060,1980,2380
+580,580: Lumber and building material retailing,8800,540,60,40,20,140,120,9660,1980,200
+581,581: Hardware stores,5040,220,0,40,100,180,20,5600,1980,320
+582,582: Retail nurseries and garden stores,1280,60,0,40,300,80,40,1800,1980,420
+590,590: Mobile home dealers,260,0,0,0,0,0,0,260,1980,0
+591,591: Department stores,51720,8040,400,580,1340,1280,1120,64080,1980,3200
+592,592: Variety stores,1820,180,60,0,60,100,100,2260,1980,160
+600,600: Miscellaneous general merchandise stores,2320,400,40,0,220,140,40,3120,1980,360
+601,601: Grocery stores,46940,5560,580,1660,2940,2360,1300,60760,1980,6960
+602,602: Dairy products stores,1160,80,0,0,20,40,0,1300,1980,60
+610,610: Retail bakeries,4380,560,60,160,80,180,180,5540,1980,420
+611,"611: Food stores, n.e.c.",6180,500,60,180,260,220,220,7560,1980,660
+612,612: Motor vehicle dealers,22420,1560,140,240,320,620,340,25500,1980,1180
+620,620: Auto and home supply stores,7820,800,100,80,180,340,180,9400,1980,600
+621,621: Gasoline service stations,11920,900,80,80,360,1020,280,14560,1980,1460
+622,622: Miscellaneous vehicle dealers,2560,140,20,0,60,0,20,2780,1980,60
+623,"623: Apparel and accessory stores, except shoe",20300,1860,160,140,380,1220,380,24280,1980,1740
+630,630: Shoe stores,4480,660,40,60,60,100,60,5420,1980,220
+631,631: Furniture and home furnishings stores,16180,1000,100,120,200,240,280,18020,1980,560
+633,"633: Radio, TV, and computer stores",11600,840,120,100,280,340,220,13380,1980,720
+641,641: Eating and drinking places,106100,7360,980,5100,2700,4600,3400,129260,1980,12400
+642,642: Drug stores,11860,1380,60,340,500,380,280,14740,1980,1220
+650,650: Liquor stores,5180,960,0,120,600,400,80,7340,1980,1120
+651,"651: Sporting goods, bicycles, and hobby stores",6520,280,20,120,200,100,140,7360,1980,420
+652,652: Book and stationery stores,5480,380,60,180,60,100,100,6300,1980,340
+660,660: Jewelry stores,5100,200,80,160,300,160,140,6060,1980,620
+662,"662: Sewing, needlework, and piece goods stores",2280,100,0,0,60,0,0,2440,1980,60
+663,663: Catalog and mail order houses,4120,580,0,40,40,100,60,4940,1980,180
+670,670: Vending machine operators,1620,140,0,0,60,80,0,1900,1980,140
+671,671: Direct selling establishments,5200,320,20,20,40,40,20,5640,1980,100
+672,672: Fuel dealers,500,80,0,0,0,20,20,620,1980,20
+681,681: Retail florists,3080,220,0,0,180,120,0,3600,1980,300
+682,682: Miscellaneous retail stores,16440,1220,100,160,400,340,240,18800,1980,900
+691,"691: Retail trade, n.s.Â ",7460,1060,60,120,60,400,100,9200,1980,580
+700,700: Banking,51180,9500,340,1820,1460,4700,1040,69700,1980,7980
+701,"701: Savings institutions, including credit unions",9720,1300,100,160,180,460,180,12000,1980,800
+702,"702: Credit agencies, n.e.c.",11180,1700,100,120,260,500,260,14020,1980,880
+710,"710: Security, commodity brokerage, and investment companies",13040,1160,40,320,380,520,140,15560,1980,1220
+711,711: Insurance,53200,8120,600,900,1360,3900,1160,68640,1980,6160
+712,"712: Real estate, including real estate-insurance officesÂ ",58840,4120,460,860,680,1200,980,66680,1980,2740
+721,721: Advertising,9360,420,60,80,200,100,140,10300,1980,380
+722,722: Services to dwellings and other buildings,10040,3520,200,140,100,620,580,15000,1980,860
+731,731: Personnel supply services,10140,2700,120,20,40,300,300,13500,1980,360
+732,732: Computer and data processing services,15400,1880,40,300,320,820,140,18860,1980,1440
+740,740: Detective and protective services,9100,2580,180,20,60,340,260,12360,1980,420
+741,"741: Business services, n.e.c.",38160,3280,420,500,840,980,740,44500,1980,2320
+750,750: Automobile parking and carwashes,9820,1740,40,40,100,620,340,12660,1980,760
+751,751: Automotive repair and related services,25000,2040,120,100,640,760,620,29160,1980,1500
+752,752: Electrical repair shops,4240,240,0,20,100,160,0,4760,1980,280
+760,760: Miscellaneous repair servicesÂ ,9040,520,60,20,180,240,240,10240,1980,440
+761,761: Private households,22980,5780,160,500,320,560,940,31080,1980,1380
+762,762: Hotels and motels,16800,2300,180,660,400,1200,840,22200,1980,2260
+770,"770: Lodging places, except hotels and motels",3580,440,40,20,80,60,80,4260,1980,160
+771,"771: Laundry, cleaning, and garment services",12080,2220,60,300,240,800,260,15900,1980,1340
+772,772: Beauty shops,16840,2020,100,100,640,600,320,20520,1980,1340
+780,780: Barber shops,2580,480,40,20,100,20,60,3260,1980,140
+781,781: Funeral service and crematories,1320,240,0,0,0,20,20,1600,1980,20
+782,782: Shoe repair shops,860,140,0,0,20,140,0,1160,1980,160
+790,790: Dressmaking shops,940,40,20,20,20,140,40,1200,1980,180
+791,791: Miscellaneous personal servicesÂ ,5440,460,80,40,160,240,140,6480,1980,440
+800,800: Theaters and motion pictures,52560,2920,360,420,500,740,820,57960,1980,1660
+802,802: Bowling centers,1740,220,0,20,40,40,0,2060,1980,100
+810,810: Miscellaneous entertainment and recreation servicesÂ ,18480,1720,260,80,240,280,420,21220,1980,600
+812,812: Offices and clinics of physicians,28100,2120,100,320,500,1120,220,32380,1980,1940
+820,820: Offices and clinics of dentists,12020,880,60,260,520,460,200,14340,1980,1240
+821,821: Offices and clinics of chiropractors,1680,60,0,0,0,20,60,1820,1980,20
+822,822: Offices and clinics of optometrists,1680,0,0,20,140,20,20,1880,1980,180
+830,"830: Offices and clinics of health practitioners, n.e.c.",2380,260,20,40,0,140,20,2840,1980,180
+831,831: Hospitals,108780,33820,1480,2740,2600,12620,3280,163840,1980,17960
+832,832: Nursing and personal care facilities,8140,2540,160,20,20,660,400,11780,1980,700
+840,"840: Health services, n.e.c.",14300,3120,100,220,680,1080,260,19660,1980,1980
+841,841: Legal services,34640,1940,180,240,760,400,280,38260,1980,1400
+842,842: Elementary and secondary schools,132680,26960,940,1260,4260,2420,2680,170260,1980,7940
+850,850: Colleges and universities,51640,6760,400,1760,1540,1880,1020,64600,1980,5180
+851,851: Vocational schools,1620,160,0,0,0,60,20,1860,1980,60
+852,852: Libraries,3420,660,40,80,160,80,60,4460,1980,320
+860,"860: Educational services, n.e.c.",4460,220,0,60,60,120,20,4940,1980,240
+861,861: Job training and vocational rehabilitation services,1100,300,0,0,20,20,20,1460,1980,40
+862,862: Child day care services,8060,1960,100,100,100,200,280,10700,1980,400
+870,"870: Residential care facilities, without nursing",2580,920,60,0,0,60,80,3640,1980,60
+871,"871: Social services, n.e.c.",13200,7380,280,280,220,660,520,22260,1980,1160
+872,"872: Museums, art galleries, and zoos",1600,340,20,20,80,20,20,2080,1980,120
+880,880: Religious organizations,15500,1180,40,140,320,440,140,17720,1980,900
+881,"881: Membership organizations, n.e.c.",10980,1400,140,0,120,280,320,13100,1980,400
+882,"882: Engineering, architectural, and surveying services",17160,820,100,700,600,1540,220,21040,1980,2840
+890,"890: Accounting, auditing, and bookkeeping services",19220,940,80,460,480,520,160,21780,1980,1460
+891,"891: Research, development, and testing services",12040,960,100,260,360,360,160,14140,1980,980
+892,892: Management and public relations services,15380,1220,180,140,240,200,200,17380,1980,580
+893,893: Miscellaneous professional and related servicesÂ ,7800,320,80,80,120,80,120,8520,1980,280
+900,900: Executive and legislative offices,1140,460,20,60,20,20,20,1720,1980,100
+901,"901: General government, n.e.c.",20900,9520,380,840,1040,1680,720,34700,1980,3560
+910,"910: Justice, public order, and safety",30600,7200,400,200,480,580,660,39720,1980,1260
+921,"921: Public finance, taxation, and monetary policy",4180,1620,80,140,240,180,80,6440,1980,560
+922,922: Administration of human resources programs,6880,2360,120,160,260,440,160,10260,1980,860
+930,930: Administration of environmental quality and housing programs,3820,1180,20,20,100,200,60,5380,1980,320
+931,931: Administration of economic programs,8260,2160,80,60,500,260,160,11400,1980,820
+932,932: National security and international affairsÂ ,6300,1380,60,120,180,620,80,8680,1980,920
