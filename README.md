@@ -1,4 +1,4 @@
-# Construction jobs analysis
+# construction-jobs-analysis
 
 By [Ben Welsh](mailto:ben.welsh@latimes.com)
 
